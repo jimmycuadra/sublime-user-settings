@@ -1,5 +1,6 @@
 // Place user-specific overrides in this file, to ensure they're preserved
 // when upgrading
 {
-	"remember_open_files": false
+  "remember_open_files": false,
+  "open_files_in_new_window": false
 }
