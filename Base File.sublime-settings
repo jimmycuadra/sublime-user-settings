@@ -4,5 +4,7 @@
 	"font_face": "BitstreamVeraSansMono-Roman",
 	"font_size": 12,
 	"tab_size": 2,
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+  "highlight_line": true,
+  "trim_trailing_white_space_on_save": true
 }
