@@ -2,5 +2,6 @@
 // when upgrading
 {
   "remember_open_files": false,
-  "open_files_in_new_window": false
+  "open_files_in_new_window": false,
+  "hot_exit": false
 }
