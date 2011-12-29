@@ -1,7 +1,10 @@
-// Place user-specific overrides in this file, to ensure they're preserved
-// when upgrading
 {
-  "remember_open_files": false,
+  "theme": "Soda Dark.sublime-theme",
+  "hot_exit": false,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
   "open_files_in_new_window": false,
-  "hot_exit": false
+  "remember_open_files": false
 }
