@@ -1,0 +1,16 @@
+{
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"Cucumber",
+		"Haml",
+		"HTML5",
+		"nginx",
+		"Package Control",
+		"RSpec (snippets and syntax)",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"Theme - Soda"
+	]
+}
