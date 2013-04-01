@@ -1,3 +1,0 @@
-{
-  "jslint_options": "--browser --indent 2 --sloppy --predef '$,sinon,describe,it,expect'"
-}

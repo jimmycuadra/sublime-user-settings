@@ -1,8 +1,5 @@
 {
 	"extensions":
 	[
-		"hamljs",
-		"hamlc",
-		"haml"
 	]
 }

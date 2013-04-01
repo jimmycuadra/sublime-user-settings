@@ -1,22 +1,25 @@
 {
-  "color_scheme": "Packages/Color Scheme - User/Railscasts.tmTheme",
-  "ensure_newline_at_eof_on_save": true,
-  "fade_fold_buttons": false,
-  "font_face": "BitstreamVeraSansMono-Roman",
-  "font_size": 13.0,
-  "highlight_line": true,
-  "highlight_modified_tabs": true,
-  "hot_exit": false,
-  "ignored_packages":
-  [
-    "Vintage"
-  ],
-  "match_selection": false,
-  "open_files_in_new_window": false,
-  "remember_open_files": false,
-  "tab_size": 2,
-  "theme": "Soda Dark.sublime-theme",
-  "translate_tabs_to_spaces": true,
-  "trim_trailing_white_space_on_save": true,
-  "rulers": [80]
+	"color_scheme": "Packages/Railscasts.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"font_face": "BitstreamVeraSansMono-Roman",
+	"font_size": 13.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"match_selection": false,
+	"open_files_in_new_window": false,
+	"remember_open_files": false,
+	"rulers":
+	[
+		80
+	],
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
