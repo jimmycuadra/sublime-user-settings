@@ -3,6 +3,7 @@
 	[
 		"CoffeeScript",
 		"Cucumber",
+		"Git",
 		"Haml",
 		"HTML5",
 		"nginx",
