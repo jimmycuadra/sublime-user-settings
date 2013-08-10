@@ -1,21 +1,21 @@
 {
 	"installed_packages":
 	[
-		"CoffeeScript",
-		"Cucumber",
 		"Git",
 		"Haml",
 		"HTML5",
 		"nginx",
-		"Package Control",
 		"RSpec (snippets and syntax)",
 		"Sass",
-		"SCSS",
+		"SCSS-sublime",
+		"sublime-better-coffeescript",
 		"sublime-file-operations",
 		"Theme - Soda"
 	],
 	"repositories":
 	[
-		"https://github.com/chasetopher/sublime-file-operations"
+		"https://github.com/aponxi/sublime-better-coffeescript",
+		"https://github.com/chasetopher/sublime-file-operations",
+		"https://github.com/danro/SCSS-sublime"
 	]
 }
