@@ -1,7 +1,6 @@
 {
 	"installed_packages":
 	[
-		"Git",
 		"Haml",
 		"HTML5",
 		"nginx",
@@ -11,6 +10,7 @@
 		"SCSS-sublime",
 		"sublime-better-coffeescript",
 		"sublime-file-operations",
+		"SublimeGit",
 		"Theme - Soda"
 	],
 	"repositories":
