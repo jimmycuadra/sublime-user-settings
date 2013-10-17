@@ -1,13 +1,18 @@
 {
 	"installed_packages":
 	[
+		"Better CoffeeScript",
+		"eco",
+		"Git",
 		"Haml",
 		"HTML5",
+		"Mako",
 		"nginx",
 		"Puppet",
 		"RSpec (snippets and syntax)",
 		"Sass",
 		"SCSS-sublime",
+		"Stylus",
 		"sublime-better-coffeescript",
 		"sublime-file-operations",
 		"SublimeERB",
