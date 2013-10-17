@@ -10,7 +10,9 @@
 		"SCSS-sublime",
 		"sublime-better-coffeescript",
 		"sublime-file-operations",
+		"SublimeERB",
 		"SublimeGit",
+		"Tag",
 		"Theme - Soda"
 	],
 	"repositories":
